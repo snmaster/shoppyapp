@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_a87e269730d708f0323ee684779abb83635a312c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_9bc7ad836afe228a5faf1f681eb88b7b658f7f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_eedb1c9e107690818f504a6ddddb9e7f8ee3fa25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_7349a66a3ec83971fc04315b51330a19da49edc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_e01b53ed34da8d31038642d6e4bf1275be86c9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_e5ab9062ea98bc2669f13965444cfd2aba72bda4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_dc94963244f821b53ee0152a842d8dbdec5a8b60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_082476421f9f160109522003692b42d68bac29a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b8a78e34c078212432f7d47b5dc14cb54201e211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_98d485008f73433d008c12b3f769d4b1313a34c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_1ceb2bd8d281a25ea428f638a17b412fc0114493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_a1765eee887acfb8b0b0b807fc9257ae77779b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_e0a2d5ed36624f84598b464fbb89b811b1a4cf30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_3eb6bc3a0acdc113068c995395832db3d45fbc84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_97096e9148d01f4cf550930e231d1653c229c031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_09fc3587c63e52f2e56d63b9678333536752351c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_2739e967565b2d96435d411ff0414b87a3d567ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_62ddfb4ae8aac02897bc8ee3ed75c0d873bda499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1269b21ba0c5376850df7defec66a9ca9280fb9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e806a1291cf3254389466b0f71a920e69005192b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_42a1b4e9dce81902d224acf4988328ac26b8f3b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_9676a40c5c02ef52747c638f484f3118dd8a62ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_447bce5c691439f52d74b22795681ba157fcd6cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0db5ab6b235f066af557ef3d5a4fb60a486e058a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_fc66c7114d5b81e677a078fe2aaa7f0845d27f9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c1390c26d3d7e4cdbc15b95d912941ed0e98a0e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_e1d1de14879d5613fac91ba94547d919a1d487d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d3cdaa3135b976ff4f265f0a03e7d031d7ff2c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_f3fde9c35beb6366569b71de13e20bc1bc40e1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3c15dca593d418c9aee08d286f4613a6498d0f65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/shopapp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/chitswe/project/shopapp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_9f7a9beed7fea70fbc4a05147cc7a3e77b9fcc75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/project/myapp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ec493e84bb579772f19fbee5e12ba8e1a072cc1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_94c071df2152e2bd179f8e256102ebb9da5dae2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chitswe/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/chitswe/project/myapp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_06325aae1a8a1e13f08ce4e362907ad835424a9d.jar" />
+    </item>
+
+</items>
